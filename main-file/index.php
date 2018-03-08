@@ -350,7 +350,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="www.fitsquadegypt.com" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://fitsquadd.herokuapp.com/" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -367,7 +367,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://bache.herokuapp.com/" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://bache.herokuapp.com/" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -384,7 +384,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://todolistt.herokuapp.com/" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://todolistt.herokuapp.com/" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -401,7 +401,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://tinyonee.herokuapp.com/" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://tinyonee.herokuapp.com/" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -419,7 +419,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://react-chat-9d3c2.firebaseapp.com/" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://react-chat-9d3c2.firebaseapp.com/" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -438,7 +438,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://youtu.be/BT413p9QFek" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://youtu.be/BT413p9QFek" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -455,7 +455,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://youtu.be/Hi0an2YXu2Y" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://youtu.be/Hi0an2YXu2Y" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
@@ -472,7 +472,7 @@
             <div class="overlay">
               <div class="overlay-inner">
                 <ul class="social-link">
-                <li><a href="https://youtu.be/sVerURqkIFM" class="text-center"><i class="fa fa-facebook"></i><span></span></a></li>
+                <li><a href="https://youtu.be/sVerURqkIFM" class="text-center"><i class="fa fa-desktop"></i><span></span></a></li>
               </ul>
               </div>
             </div>
